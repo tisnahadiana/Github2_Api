@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github User Api</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="github_user_api">GITHUB USER API</string>
+</resources>
